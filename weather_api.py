@@ -13,7 +13,7 @@ class WeatherAPI:
         params = {
             'exclude': 'current,minutely,hourly,alerts',
             'extend': '168',
-            'units': 'metric'
+            'units': 'si'
         }
 
         response = requests.get(f"https://api.pirateweather.net/forecast/{self.ACCESS_KEY}/{latitude},{longitude}", params)
