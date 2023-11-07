@@ -1,0 +1,141 @@
+{
+  "Apple": {
+    "source": "https://garden.org/plants/view/125914/Apple-Malus-domestica-Honeycrisp/",
+    "lifecycle": "Perennial",
+    "sun_requirements": "Full Sun",
+    "water_preferences": "Mesic",
+    "minimum_cold_hardiness:": "Zone 3 -40 °C (-40 °F) to -37.2 °C (-35)",
+    "maximum_recommended_zone": "Zone 7b",
+    "fruiting_time": "Late summer or early fall, Fall"
+  },
+  "Blueberry": {
+    "source": "https://garden.org/plants/view/677151/Blueberry-Vaccinium-corymbosum-BrazelBerries-Pink-Icing/",
+    "lifecycle": null,
+    "sun_requirements": "Full Sun to Partial Shade",
+    "water_preferences": "Mesic",
+    "soil_ph_preferences": "4.5–5.5",
+    "minimum_cold_hardiness:": "Zone 5a -28.9 °C (-20 °F) to -26.1 °C (-15 °F)",
+    "maximum_recommended_zone": "Zone 10b",
+    "fruiting_time": "Summer"
+  },
+  "Cherry": {
+    "source": "https://garden.org/plants/view/78513/Sweet-Cherry-Prunus-avium-Lapins/",
+    "lifecycle": "Perennial",
+    "sun_requirements": "Full Sun to Partial Shade",
+    "water_preferences": "Mesic",
+    "soil_ph_preferences": "5.6-7.3",
+    "minimum_cold_hardiness:": "Zone 5a -28.9 °C (-20 °F) to -26.1 °C (-15 °F)",
+    "maximum_recommended_zone": "Zone 10b",
+    "fruiting_time": "Late spring or early summer, Summer"
+  },
+  "Corn": {
+    "source": "https://garden.org/plants/view/695646/Corn-Zea/",
+    "lifecycle": null,
+    "sun_requirements": "Full Sun",
+    "water_preferences": "Mesic",
+    "soil_ph_preferences": null,
+    "minimum_cold_hardiness:": null,
+    "maximum_recommended_zone": null,
+    "fruiting_time": null
+  },
+  "Grape": {
+    "source": "https://garden.org/plants/view/79550/Concord-Grape-Vitis-labrusca-Concord/",
+    "lifecycle": "Perennial",
+    "sun_requirements": "Full Sun to Partial Shade",
+    "water_preferences": "Mesic, Dry Mesic, Dry",
+    "soil_ph_preferences": "6.1-7.8",
+    "minimum_cold_hardiness:": "Zone 5a -28.9 °C (-20 °F) to -26.1 °C (-15 °F)",
+    "maximum_recommended_zone": "Zone 8b",
+    "fruiting_time": "Late summer or early fall"
+  },
+  "Orange": {
+    "source": "https://garden.org/plants/view/118470/Orange-Citrus-reticulata-Satsuma/",
+    "lifecycle": "Perennial",
+    "sun_requirements": "Full Sun to Partial Shade",
+    "water_preferences": "Mesic",
+    "soil_ph_preferences": "5.6-7.8",
+    "minimum_cold_hardiness:": null,
+    "maximum_recommended_zone": null,
+    "fruiting_time": "Winter"
+  },
+  "Peach": {
+    "source": "https://garden.org/plants/view/225773/Peaches-Prunus-persica/",
+    "lifecycle": null,
+    "sun_requirements": null,
+    "water_preferences": "Mesic",
+    "soil_ph_preferences": null,
+    "minimum_cold_hardiness:": "Zone 5a -28.9 °C (-20 °F) to -26.1 °C (-15 °F)",
+    "maximum_recommended_zone": "Zone 9b",
+    "fruiting_time": null
+  },
+  "Pepper": {
+    "source": "https://garden.org/plants/view/111370/Pepper-Capsicum-annuum-Marconi-Red/",
+    "lifecycle": null,
+    "sun_requirements": "Full Sun",
+    "water_preferences": "Mesic",
+    "soil_ph_preferences": null,
+    "minimum_cold_hardiness:": null,
+    "maximum_recommended_zone": null,
+    "fruiting_time": null
+  },
+  "Potato": {
+    "source": "https://garden.org/plants/view/79004/Potatoes-Solanum-tuberosum/",
+    "lifecycle": "Perennial",
+    "sun_requirements": "Full Sun",
+    "water_preferences": "Mesic",
+    "soil_ph_preferences": null,
+    "minimum_cold_hardiness:": null,
+    "maximum_recommended_zone": null,
+    "fruiting_time": null
+  },
+  "Raspberry": {
+    "source": "https://garden.org/plants/view/167240/Raspberry-Rubus-idaeus-Latham/",
+    "lifecycle": "Perennial",
+    "sun_requirements": "Full Sun",
+    "water_preferences": "Mesic",
+    "soil_ph_preferences": "6.1-7.3",
+    "minimum_cold_hardiness:": "Zone 3 -40 °C (-40 °F) to -37.2 °C (-35)",
+    "maximum_recommended_zone": "Zone 8b",
+    "fruiting_time": "Summer"
+  },
+  "Soybean": {
+    "source": "https://garden.org/plants/view/76722/Edamame-Glycine-max/",
+    "lifecycle": "Annual",
+    "sun_requirements": "Full Sun",
+    "water_preferences": "Mesic",
+    "soil_ph_preferences": "6.1-7.8",
+    "minimum_cold_hardiness:": null,
+    "maximum_recommended_zone": null,
+    "fruiting_time": null
+  },
+  "Squash": {
+    "source": "https://garden.org/plants/view/120362/Zucchini-Cucurbita-pepo-Black-Beauty/",
+    "lifecycle": "Annual",
+    "sun_requirements": "Full Sun",
+    "water_preferences": "Mesic",
+    "soil_ph_preferences": null,
+    "minimum_cold_hardiness:": null,
+    "maximum_recommended_zone": null,
+    "fruiting_time": "Summer, Late summer or early fall"
+  },
+  "Strawberry": {
+    "source": "https://garden.org/plants/view/136920/Strawberry-Fragaria-x-ananassa-Quinault/",
+    "lifecycle": "Perennial",
+    "sun_requirements": "Full Sun to Partial Shade",
+    "water_preferences": "Mesic",
+    "soil_ph_preferences": null,
+    "minimum_cold_hardiness:": null,
+    "maximum_recommended_zone": null,
+    "fruiting_time": null
+  },
+  "Tomato": {
+    "source": "https://garden.org/plants/view/77653/Tomatoes-Solanum-lycopersicum/",
+    "lifecycle": "Perennial",
+    "sun_requirements": "Full Sun",
+    "water_preferences": "Mesic",
+    "soil_ph_preferences": null,
+    "minimum_cold_hardiness:": "Zone 11 +4.4 °C (40 °F) to +7.2 °C (50 °F)",
+    "maximum_recommended_zone": null,
+    "fruiting_time": null
+  }
+}

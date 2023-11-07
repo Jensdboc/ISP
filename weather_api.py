@@ -130,8 +130,8 @@ class WeatherAPI:
                 f.write('\n')
 
 
-weather = WeatherAPI()
+# weather = WeatherAPI()
 # weather.generate_list_of_simulated_forecasts()
-result = weather.simulate_forecast()
-print(json.dumps(result, indent=4))
+# result = weather.simulate_forecast()
+# print(json.dumps(result, indent=4))
 
